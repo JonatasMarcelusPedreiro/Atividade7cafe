@@ -1,0 +1,7 @@
+D:\Users\jonatas.mpedreiro\source\repos\Ativiade07\Ativiade07\bin\Debug\Ativiade07.exe.config
+D:\Users\jonatas.mpedreiro\source\repos\Ativiade07\Ativiade07\bin\Debug\Ativiade07.exe
+D:\Users\jonatas.mpedreiro\source\repos\Ativiade07\Ativiade07\bin\Debug\Ativiade07.pdb
+D:\Users\jonatas.mpedreiro\source\repos\Ativiade07\Ativiade07\obj\Debug\Ativiade07.csproj.AssemblyReference.cache
+D:\Users\jonatas.mpedreiro\source\repos\Ativiade07\Ativiade07\obj\Debug\Ativiade07.csproj.CoreCompileInputs.cache
+D:\Users\jonatas.mpedreiro\source\repos\Ativiade07\Ativiade07\obj\Debug\Ativiade07.exe
+D:\Users\jonatas.mpedreiro\source\repos\Ativiade07\Ativiade07\obj\Debug\Ativiade07.pdb
